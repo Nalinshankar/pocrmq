@@ -1,0 +1,4 @@
+com/javasampleapproach/rabbitmq/SpringRabbitMqProducerApplication.class
+com/javasampleapproach/rabbitmq/config/RabbitMqConfig.class
+com/javasampleapproach/rabbitmq/controller/ProducerController.class
+com/javasampleapproach/rabbitmq/producer/Producer.class
